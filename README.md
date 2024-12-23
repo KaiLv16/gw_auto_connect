@@ -1,4 +1,4 @@
-# Windows下进行https://gw.ict.ac.cn 长登录
+# Windows下进行 https://url_of_gw 长登录
 
 ## 一 整体思路：
 
