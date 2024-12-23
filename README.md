@@ -41,7 +41,7 @@
 输入命令 `msedgedriver`。如果安装正确，应该会看到 EdgeDriver 的版本信息输出。
 
 ### 步骤2：向python脚本中添加用户名和密码
-![修改位置](figure/1.png)
+![修改位置](figure/image0.png)
 
 把上述用户名和密码修改成自己的
 
